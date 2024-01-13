@@ -10,4 +10,9 @@
     * how to design classes
     * basic OOP principles
     * how to write good methods, according to clean code standards
+
+
+
+## Contact me:
+[LinkedIn Account] (https://www.linkedin.com/in/ahmed-fawzi-136225269/)
     
